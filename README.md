@@ -1,3 +1,3 @@
-# fuelcostest
+# FuelOut
 
-A new Flutter project.
+FuelOut is an app used to calculate the fuel price needed to drive certain kilometerk given the vehicle's fuel efficiency. 
